@@ -20,9 +20,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.latimakers.pokedex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#f00"
       }
     },
     "web": {
