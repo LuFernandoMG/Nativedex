@@ -12,7 +12,7 @@ In this project, we transform our phone into one of these devices taking advanta
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/37456799/189761462-d459951c-e6b5-458d-ada8-540cc0faf4f6.png)
+<img width="361" alt="load screen" src="https://user-images.githubusercontent.com/37456799/189761462-d459951c-e6b5-458d-ada8-540cc0faf4f6.png" />
 <img width="361" alt="Screen Shot 2022-09-12 at 4 30 23 PM" src="https://user-images.githubusercontent.com/37456799/189762137-4ca254b3-19da-44d4-a4c5-6089ea672c1f.png">
 <img width="361" alt="Screen Shot 2022-09-12 at 4 30 35 PM" src="https://user-images.githubusercontent.com/37456799/189762165-834c84dc-41b7-4612-8c00-4e1010543210.png">
 <img width="361" alt="Screen Shot 2022-09-12 at 4 30 47 PM" src="https://user-images.githubusercontent.com/37456799/189762190-c922fcb3-4807-4ef3-b595-6b1e7677d4f8.png">
